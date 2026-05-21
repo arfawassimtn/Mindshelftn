@@ -112,9 +112,23 @@ Self Improvement
 ├── Habits
 └── Mindset
 
-This version feels more **professional, modern, and startup-like**, while still keeping your original personal vision and friendliness. It also looks much better on GitHub for visitors and future contributors.
+This version feels more **professional, modern, and startup-like**, while still keeping your original personal vision and friendliness. It also looks much better on GitHub for visitors and future 
 
 
+Recommended Version Roadmap
+v1.0.0 ✅ Landing page
+✅ Working dashboard
+✅ Save chats to local storage
+✅ Search
+✅ Favorites
+✅ Categories
+v1.1.0 ✅ Auto-tagging
+✅ Smart organization
+✅ Goal-based shelves
+v1.2.0 ✅ AI behavior analysis
+✅ Learning insights
+v2.0.0 ✅ ChatGPT history import
+✅ Real AI memory system
 ⭐ If you like this project, consider starring the repository!
 
 
