@@ -19,7 +19,7 @@ Think of it like:
 
 🚀 Try MindShelftn here:
 
-[arfawassimtn.github.io](https://reference-url-citation.invalid/0)
+https://arfawassimtn.github.io/Mindshelftn 
 
 ---
 
